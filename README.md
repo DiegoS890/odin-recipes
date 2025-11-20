@@ -1,1 +1,1 @@
-En este primer proyecto se aplicaran los conocimientos basicos en comandos git y del lenguaje de hipertexto html para deasrrollar una pagina de recetas de comida.
+En este primer proyecto se aplicaran los conocimientos basicos en comandos git y del lenguaje de marcado de hipertexto html para deasrrollar una pagina de recetas de comida.
